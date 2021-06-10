@@ -1,5 +1,5 @@
 _repo: Four-Bells-A-Tale-of-the-Caribbean_65385
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   illustrator:
     agent_name: Schoonover, Frank E.
@@ -9,6 +9,9 @@ contributor:
     gutenberg_agent_id: '31362'
     url: http://www.gutenberg.org/2009/agents/31362
     wikipedia: https://en.wikipedia.org/wiki/Frank_Schoonover
+covers:
+- cover_type: archival
+  image_path: 65385-h/images/cover.jpg
 creator:
   author:
     agent_name: Paine, Ralph Delahaye
@@ -19,6 +22,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1113
     wikipedia: https://en.wikipedia.org/wiki/Ralph_Delahaye_Paine
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/65385#Four-Bells-A-Tale-of-the-Caribbean
 gutenberg_issued: '2021-05-19'
 gutenberg_type: Text
 identifiers:
